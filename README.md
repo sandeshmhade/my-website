@@ -4,4 +4,4 @@ this is really awesome website
 
 keep the changes in both side
 
-changes made locally
+don't keep anything of it
