@@ -2,4 +2,4 @@
 
 this is really awesome website
 
-change made in read me in local
+keep the changes in both side
