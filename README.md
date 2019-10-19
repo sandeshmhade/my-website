@@ -7,3 +7,5 @@ keep the changes in both side
 don't keep anything of it
 
 code made in example branch
+
+readme updated in update-readme branch
